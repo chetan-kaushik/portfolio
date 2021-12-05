@@ -1,0 +1,109 @@
+nav{
+  padding: 10px;
+  opacity: 0.7;
+  font-weight: bold;
+  font-size: 30px;
+}
+nav a :hover{
+  color: green;
+}
+
+.bg-1{
+  background-color: rgb(196, 235, 235);
+  margin-bottom: 20px;
+}
+
+.bg-0{
+background-color: rgb(194, 209, 179);
+}
+.carousel-caption {
+  position: absolute;
+  bottom: 20%;
+  color: azure;
+  
+  /* left: 5%;
+  z-index: 20; */
+  
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+.bg-3{
+  background-color: rgb(188, 255, 205);
+  padding-bottom: 20px;
+  margin-top: 20px;
+
+}
+.bg-4{
+  /* background-color: black; */
+  padding-bottom: 100px;
+  margin-top: 30px;
+  background-color: black;
+  color: azure;
+}
+body{
+  font-family: monospace;
+  background-color: rgb(18, 250, 173);
+ 
+}
+.contact{
+  padding-bottom: 15px;
+  font-size: 50px;
+  color: azure;
+  font-weight: bold;
+}
+
+button{
+  color:black;
+  background-color: rgb(128, 255, 0);
+}
+#project{
+color: black;
+}
+u{
+  color: rgb(223, 19, 60);
+}
+#imge{
+  background-color: rgb(255, 140, 0);
+  padding: 7px;
+  margin-top: 10px;
+ 
+}
+#img2{
+  background-color: rgb(72, 61, 141);
+  padding: 7px;
+  margin-top: 10px;
+ 
+}
+
+#img3{
+  background-color: rgb(231, 124, 124) ;
+  padding: 7px;
+  margin-top: 10px;
+}
+a{
+  color: rgb(255, 20, 145);
+}
+
+.fa-facebook  {
+  color: #3b5998;
+}
+.fa-twitter{
+  color:  #1DA1F2;
+}
+.fa-2x{
+  margin-right: 20px;
+  background-color: azure;
+  padding: 10px;
+}
+.fa-github{
+  color: #4078c0;
+}
+.fa-linkedin{
+  color: #0e76a8;
+}
+.fa-3x{
+  background-color: rgb(255, 1, 1);
+  color: rgb(246, 252, 252);
+  margin-top: 20px;
+  padding: 10px;
+}
